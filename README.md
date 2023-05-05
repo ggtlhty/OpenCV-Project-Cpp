@@ -1,4 +1,4 @@
-***An algorithm using OpenCV and C++ to give an estimate of a cable's diameter and surface defects.***
+# An algorithm using OpenCV and C++ to give an estimate of a cable's diameter and surface defects.
 
 Example:
 
